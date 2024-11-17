@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "459066312494",
+    "project_id": "verduritas-sa-rodolfodro-c0655",
+    "storage_bucket": "verduritas-sa-rodolfodro-c0655.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:459066312494:android:02353e0b5c370efdef1cbf",
+        "android_client_info": {
+          "package_name": "rodolfo.droguett.verduritassa"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRLPqwafRrbcHibKROaxYh0mVudbchgYE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

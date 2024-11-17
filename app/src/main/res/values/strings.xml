@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">VerduritasSA</string>
+    <string-array name="gender_options">
+        <item>Masculino</item>
+        <item>Femenino</item>
+        <item>Prefiero no decirlo</item>
+    </string-array>
+    <string-array name="planta_options">
+        <item>Tomates</item>
+        <item>Cebollas</item>
+        <item>Lechugas</item>
+        <item>Apio</item>
+        <item>Choclo</item>
+    </string-array>
+</resources>
